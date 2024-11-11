@@ -79,7 +79,8 @@ inspired by https://daylightcomputer.com/ and https://www.sunlit.place/
 
 ### leaf billowing
 
-- to add a bit more dynamism, i 
+- created a leaf billowing effect using small amounts of rotate and scale
+- to add a bit more dynamism, i used svg filters and the lesser known `feTurbulence` and `feDisplacementMap` tags to add a higher octave of noise to billow individual leaves
 
 ```html
   <div id="leaves">
