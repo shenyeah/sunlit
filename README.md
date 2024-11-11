@@ -30,7 +30,7 @@ inspired by https://daylightcomputer.com/ and https://www.sunlit.place/
 
 ### progressive blur
 
-- gotta make the diffraction effect convincing
+- gotta make the diffusion effect convincing
 - things closer to the wall should be less blurry than things away from the wall
 - this utilizes multiple blur layers each with a mask image to constraint its effect zone
 
