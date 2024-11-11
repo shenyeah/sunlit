@@ -1,6 +1,11 @@
+
+
+https://github.com/user-attachments/assets/b4b2a21b-cbfa-4d09-8475-0946cb96cb62
+
+---
+
 inspired by https://daylightcomputer.com/ and https://www.sunlit.place/
 
-https://github.com/user-attachments/assets/ab6410bb-d1b9-487f-8699-988bd790ed3f
 
 `matrix3d` values are calculated using the following python script:
 
