@@ -1,3 +1,17 @@
+article {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40vh 0;
+
+  color: var(--dark);
+  isolation: isolate;
+}
+
+article a {
+  color: var(--dark);
+}
+
+
 body {
   --day: #fffdfa;
   --evening: #fccc83;
@@ -80,15 +94,6 @@ body.dark {
   100% {
     background-color: var(--night);
   }
-}
-
-article {
-  margin: 0 auto;
-  max-width: 800px;
-  padding: 1em;
-
-  color: var(--dark);
-  isolation: isolate;
 }
 
 #dappled-light {
