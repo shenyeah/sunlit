@@ -246,33 +246,6 @@ body.dark {
   height: 80px;
 }
 
-
-@keyframes billow {
-  0% {
-    clip-path: polygon(50% 0%, 100% 38%, 100% 100%, 0% 100%, 0% 38%);
-  }
-
-  20% {
-    clip-path: polygon(45% 2%, 95% 30%, 98% 95%, 5% 98%, 2% 35%);
-  }
-
-  40% {
-    clip-path: polygon(52% 4%, 97% 42%, 95% 92%, 8% 95%, 4% 32%);
-  }
-
-  60% {
-    clip-path: polygon(48% 3%, 93% 35%, 97% 98%, 2% 92%, 7% 38%);
-  }
-
-  80% {
-    clip-path: polygon(43% 5%, 98% 33%, 93% 96%, 4% 97%, 5% 42%);
-  }
-
-  100% {
-    clip-path: polygon(50% 0%, 100% 38%, 100% 100%, 0% 100%, 0% 38%);
-  }
-}
-
 @keyframes billow {
   0% {
     transform: perspective(400px) rotateX(0deg) rotateY(0deg) scale(1);
