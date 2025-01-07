@@ -9,6 +9,6 @@ document.addEventListener('keydown', function(event) {
   }
 });
 
-document.addEventListener('click', function() {
+document.getElementById('theme-toggle').addEventListener('change', function() {
   toggle();
 });
